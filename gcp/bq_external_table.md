@@ -1,4 +1,4 @@
-# allow_quoted_newlines option at sExternal Table on BigQuery
+# allow_quoted_newlines option at External Table on BigQuery
 
 When you create an external table from CSV file on BigQuery, better check if any option is missing.
 
